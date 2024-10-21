@@ -1,0 +1,69 @@
+/*Default Background Color*/
+body {
+    background-color: rgb(238, 218, 149);
+}
+
+/*Styling the Main Headings*/
+#main-heading {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*Styling Sub-Headings*/
+.sub-heading {
+    margin-left: 50px;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}      
+
+/*Styling the word "Treaty 1"*/
+.treaty-1 {
+    color: red;
+}
+
+/*Unordered List*/
+ul {
+    list-style: none;
+    font-size: small;
+}
+
+/*List Elements for the Nav Bar*/
+li {
+    margin: 10px;
+    font-size: 20px;
+    display: inline-block;
+}
+
+/*Styling the ELEMENTS in the Nav Bar*/
+.nav-link {
+    padding: 5px;
+    margin: 4px;
+    border-radius: 10px;
+    border: 2px;
+    border: solid;
+    border: black;
+    background-color: rgb(198, 182, 123);
+    color: #f5f5ff;
+}
+
+/*Changing the appearance of the nav links when hovered*/
+.nav-link:hover {
+    background-color: rgb(224, 206, 139) ;
+}
+
+/*Styling the ACTUAL Nav Bar for EACH webpage*/
+.nav-bar {
+    border-radius: 25px;
+    background-color: rgb(215, 195, 121);
+}
+
+/*Styling the footer for each webpage*/
+.footer {
+    background-color: rgb(215, 195, 121);
+}
+
+/*Styling the footer's paragraphs*/
+.footer-p {
+    text-align: center;
+}
+
